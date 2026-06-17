@@ -1,0 +1,1 @@
+{\n  \"mcpServers\": {\n    \"github\": {\n      \"command\": \"node\",\n      \"args\": [\n        \"~/.local/share/claude/mcp-servers/github-mcp/dist/index.js\"\n      ],\n      \"env\": {\n        \"GITHUB_TOKEN\": \"${GITHUB_TOKEN}\"\n      }\n    }\n  }\n}\n
